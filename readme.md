@@ -2,7 +2,7 @@
 
 A modern, responsive portfolio website showcasing my expertise in cloud computing, AI/ML infrastructure, and distributed systems.
 
-🌐 **Live Site:** [shivamgupta07.github.io](https://shivamgupta07.github.io) *(Update with your actual URL)*
+🌐 **Live Site:** [shivamgupta.work](http://shivamgupta.work)
 
 ## 🚀 About Me
 
